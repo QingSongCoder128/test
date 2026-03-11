@@ -1,2 +1,2 @@
 # javacode
-java经典代码
+java经典案例
